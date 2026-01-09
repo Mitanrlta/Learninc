@@ -23,6 +23,9 @@
   .main-content {
     margin-left: 0 !important;
   }
+   .hamburger-btn {
+    display: block;
+  }
 }
 .hamburger-btn {
   display: none; /* default: HIDDEN */
@@ -153,3 +156,4 @@
     height: 20px;
   }
 }
+
